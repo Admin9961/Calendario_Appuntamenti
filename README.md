@@ -2,7 +2,7 @@
 Un piccolo e umile calendario scritto in Python per gestire i propri appuntamenti
 
 Questo piccolo programma è generato per creare degli appuntamenti selezionando anno/mese/giorno/ora/minuti che verranno salvati in dei file .txt sul Desktop.
-Il calendario può creare più appuntamenti alla volta, e all'apertura rimane "idle" in un'icona sul taskbar, implementata attraverso il modulo ctypes. Tuttavia, a causa di problemi d'implementazione, l'icona ha qualche difetto, e non è completamente interattiva (per farla sparire dalla chiusura del programma basta passarci sopra col cursore, purtroppo)
+Il calendario può creare più appuntamenti alla volta, e all'apertura rimane "idle" in un'icona sul taskbar, implementata attraverso il modulo ctypes. Tuttavia, a causa di problemi d'implementazione, l'icona ha qualche difetto, e non è completamente interattiva (per farla sparire dopo la chiusura del programma basta passarci sopra col cursore, purtroppo)
 
 Il programma può essere eseguito in due modi:
 
