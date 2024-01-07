@@ -6,7 +6,7 @@ Il calendario può creare più appuntamenti alla volta, e all'apertura rimane "i
 
 Il programma può essere eseguito in due modi:
 
-1. Eseguire il file Python (.py) originale. Questo può essere fatto installando l'interprete di Python ufficiale (nello sviluppo io ho usato Python 3.12), e importare il modulo tk tkcalendar aprendo il terminal, e digitando
+1. Eseguire il file Python (.py) originale, ossia il metodo che raccomando. Questo può essere fatto installando l'interprete di Python ufficiale (nello sviluppo io ho usato Python 3.12), e importare il modulo tk tkcalendar aprendo il terminal, e digitando
    "pip install tk tkcalendar", oppure attraverso il file "requirements.txt", digitando "pip install -r requirements.txt";
 
 2. Eseguire l'.exe - che ho creato per combattere i problemi legati alla deprecazione dei moduli - anche se al momento viene segnalato dai sistemi di protezione, a causa delle signature del compiler (Pyinstaller 6.1.0) che risultano       "diffamate" da idioti che hanno abusato del compiler per buildare malware.
