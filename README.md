@@ -21,4 +21,4 @@ OS Requirements per lanciare l'.exe: Windows 10 AMD64 (minimo)
 Tutti gli OS inferiori al 10 e con processore i386 sono incompatibili.
 
 Per compilare il programma autonomamente (Pyinstaller 6.1.0 è stato usato qua) potete scrivere il comando:
-pyinstaller --onefile --noconsole --hidden-import babel.numbers Calendario_Appuntamenti.py
+*pyinstaller --onefile --noconsole --hidden-import babel.numbers Calendario_Appuntamenti.py*
