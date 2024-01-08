@@ -20,5 +20,5 @@ SHA-256: 1cb87958d1086306c5026a2fe698082c53beb044fd1f1f6af0ad1d1a406c4fdd
 OS Requirements per lanciare l'.exe: Windows 10 AMD64 (minimo)
 Tutti gli OS inferiori al 10 e con processore i386 sono incompatibili.
 
-Per compilare il programma autonomamente (Pyinstaller 6.1.0 è stato usato qua) potete scrivere il comando:
+Per compilare il programma autonomamente potete scrivere il comando:
 *pyinstaller --onefile --noconsole --hidden-import babel.numbers Calendario_Appuntamenti.py*
